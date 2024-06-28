@@ -1,48 +1,17 @@
 # Implementation of some common machine learning algorithms
 
-Implementation of various common machine learning algorithms from scratch in python using pandas and numpy.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Implementation of various common machine learning algorithms from scratch in python using various python libraries.
 
 ## Prerequisites
 
-Python libraries : pandas, numpy, matplotlib. 
+Python libraries : pandas, numpy, matplotlib, tensorflow,nlp. 
 
-```
-Give examples
-```
+## Usage
 
-### Installing
+Install required libraries , download the repo. and make changes in file such as path to the dataset . To use the code use template file, put the template file inside the same folder as the dataset and create a main file then use #include template. 
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+## Results
+Plots of dataset and decision boundary(wherever needed) are included inside the folder, additionally accuracies are present in the codeblocks
 
 ## Data
 This project utilizes datasets provided in the COL774 and CS229 course assignment and . You can find the original datasets here[https://cs229.stanford.edu/summer2020/] & [https://www.cse.iitd.ac.in/~parags/teaching/2023/col774/]
