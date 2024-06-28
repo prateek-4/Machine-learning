@@ -1,6 +1,6 @@
-# Project Title
+# Implementation of some common machine learning algorithms
 
-One Paragraph of project description goes here
+Implementation of various common machine learning algorithms from scratch in python using pandas and numpy.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python libraries : pandas, numpy, matplotlib. 
 
 ```
 Give examples
@@ -52,36 +52,10 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Reproducibility
 
-Add additional notes about how to deploy this on a live system
+This project primarily uses Python libraries such as NumPy, pandas, and Matplotlib. However, if you are using another programming language, you can use any libraries with graphing capabilities and data manipulation functions to achieve similar results. The code is well written with comments to make it easy to reproduce in any other language
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Contact
+Contact Information
+If you have any questions or suggestions, please contact at [4.prateek.mourya@gmail.com].
