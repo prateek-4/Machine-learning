@@ -6,7 +6,7 @@ Implementation of various common machine learning algorithms from scratch in pyt
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Prerequisites
 
 Python libraries : pandas, numpy, matplotlib. 
 
@@ -44,13 +44,8 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+## Data
+This project utilizes datasets provided in the COL774 and CS229 course assignment and . You can find the original datasets here[https://cs229.stanford.edu/summer2020/] & [https://www.cse.iitd.ac.in/~parags/teaching/2023/col774/]
 
 ## Reproducibility
 
